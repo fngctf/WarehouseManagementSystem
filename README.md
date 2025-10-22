@@ -1,4 +1,4 @@
-# `zero-one-10wms`
+# `WarehouseManagementSystem`
 
 `WMS`概念定义参考：
 
@@ -11,7 +11,7 @@
 
 在当今动态、全渠道的履行经济中，网购消费者希望随时随地都能进行购买、订单履行和退货。这要求企业使用适当的仓库管理软件来提高履行能力，快速响应客户需求。
 
-`zero-one-10wms`旨在帮助您满足未来的供应链需求，将库存管理和履行服务与现代采购方法相匹配，并提供对整个库存的实时可见性。只要有互联网，用户就可以通过智能手机和浏览器实时了解库存。
+`WarehouseManagementSystem`旨在帮助您满足未来的供应链需求，将库存管理和履行服务与现代采购方法相匹配，并提供对整个库存的实时可见性。只要有互联网，用户就可以通过智能手机和浏览器实时了解库存。
 
 ## 系统架构图
 
@@ -20,7 +20,7 @@
 ![architecture](./documents/00、preview-pic/architecture.jpg)
 
 ## 项目结构说明
-> `zero-one-10wms` 
+> `WarehouseManagementSystem` 
 >
 > > `.gitignore` -- 忽略提交配置
 > >
@@ -192,7 +192,7 @@ https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#requirem
 
 ## 特别鸣谢
 
-`zero-one-10wms`的诞生离不开开源软件和社区的支持，感谢以下开源项目及项目维护者：
+`WarehouseManagementSystem`的诞生离不开开源软件和社区的支持，感谢以下开源项目及项目维护者：
 
 - `spring`：https://github.com/spring-projects
 - `alibaba`：https://github.com/alibaba
@@ -228,9 +228,3 @@ https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#requirem
 ![dashboard](./documents/00、preview-pic/role.png)
 
 ![dashboard](./documents/00、preview-pic/role-user.png)
-
-## 支持一下
-
-如果觉得框架和项目还不错，点个⭐Star，这将是对**01星球**极大的鼓励与支持。
-
-想了解更多关于计算机方向选择、学习建议等相关信息，可以关注[**01星球B站主页~**](https://space.bilibili.com/1653229811?spm_id_from=333.1007.0.0)
